@@ -5,6 +5,7 @@
 # Template: app
 # Command: /usr/bin/qmake-qt4 RTAUDIO_BACKEND=ALSA -o makefile.qt-alsa miniAudicle.pro
 # miniAAudicle 装的时候qt碰到很多问题...这个Makefile里加了一些IncludePath,暂时能装了
+# qt用了https://github.com/mirror/qt这个里的镜像
 #############################################################################
 
 ####### Compiler, tools and options
